@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import TodoList from './Components/TodoList/TodoList.jsx'
 import Button from './Components/Button/Button.jsx'
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 
 function App() {
